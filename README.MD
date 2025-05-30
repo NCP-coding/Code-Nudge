@@ -1,3 +1,4 @@
+[![Build Executable on Tag](https://github.com/NCP-coding/Code-Nudge/actions/workflows/build-on-tag.yml/badge.svg)](https://github.com/NCP-coding/Code-Nudge/actions/workflows/build-on-tag.yml)
 # Code Nudge
 ![GIF demo](./.img/demo.gif)
 
