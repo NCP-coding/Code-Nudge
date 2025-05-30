@@ -1,0 +1,8 @@
+FYNE_APP_ID=my.unique.app.id
+MAIN_WINDOW_TITLE=Code Nudge
+GENAI_API_KEY=XXXXXXXXXXXXXXXXXXXXXXXXX
+GENAI_MODEL=models/gemini-2.5-flash-preview-04-17
+GENAI_MODEL_PROMPT=Give me a small hint to help solve this coding problem without revealing the full solution. Focus on building my intuition and guiding me toward the right approach.
+SCREENSHOT_DIR=./screenshots
+SCREENSHOT_CAPTURE_DISPLAY_INDEX=1
+SCREENSHOT_SAVE_ENABLED=true
